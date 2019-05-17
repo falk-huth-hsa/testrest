@@ -1,4 +1,4 @@
-package de.hs-anhalt.dms.testrest;
+package de.hsanhalt.dms.testrest;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

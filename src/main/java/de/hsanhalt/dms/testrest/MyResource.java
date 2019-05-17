@@ -1,4 +1,4 @@
-package de.hs-anhalt;
+package de.hsanhalt.dms.testrest;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
