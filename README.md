@@ -12,3 +12,10 @@ See [Jersey Getting Started](https://jersey.github.io/documentation/2.26/getting
 ## Github
 
 https://github.com/falk-huth-hsa
+
+## Start
+
+First example:
+* mvn clean test
+* mvn exec:java
+* curl http://localhost:8082/testrest/myresource

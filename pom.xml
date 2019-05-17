@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.hsanhalt.dms</groupId>
+    <groupId>de.hsanhalt.dms.testrest</groupId>
     <artifactId>testrest</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -69,7 +69,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>de.hs-anhalt.Main</mainClass>
+                    <mainClass>de.hsanhalt.dms.testrest.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>
