@@ -3,11 +3,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.hs-anhalt</groupId>
-    <artifactId>test-rest</artifactId>
+    <groupId>de.hs-anhalt.dms</groupId>
+    <artifactId>testrest</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>test-rest</name>
+    <name>testrest</name>
 
     <dependencyManagement>
         <dependencies>
